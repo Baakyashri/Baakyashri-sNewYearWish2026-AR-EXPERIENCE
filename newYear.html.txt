@@ -245,8 +245,8 @@
       <div class="model-container">
         <model-viewer
           id="cake-model"
-          src="https://modelviewer.dev/shared-assets/models/Astronaut.glb"
-          alt="3D Birthday Cake"
+          src="chocolate_cake_scan__pbr"
+          alt="3D New Year Cake"
           ar
           ar-modes="webxr scene-viewer quick-look"
           camera-controls
@@ -361,4 +361,5 @@
     });
   </script>
 </body>
+
 </html>
